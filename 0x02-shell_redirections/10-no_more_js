@@ -1,0 +1,2 @@
+#!/bin/nash
+find . -type f -name "*.js" -delete
